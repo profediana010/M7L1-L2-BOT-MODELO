@@ -1,0 +1,6 @@
+1.Entrenar el modelo en google techeable Machine, descargarlo y ponerlo enla misma ruta del main,
+#Ojo se debe tener el modelo.h5 y los labes.txt
+
+#Trabajar con entornos virtual preferiblemente y version 10 de python
+#pip install tensorflow==2.15.0
+#pip pillow numpy
